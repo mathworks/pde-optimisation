@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info description="Walks through the process of using the Partial Differential Equation Toolbox to set up a heat transfer problem that contains non-linear elements such as heat sources and insulators that vary as a function of temperature.&#xa;&#xa;The, shows the process to adapt that into an optimisation problem so that the current can be maximised without destroying the insulator." />
