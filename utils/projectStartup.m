@@ -18,4 +18,4 @@ edit maximiseAmpAgainstTSurrogate.mlx
 % Step 5: Find Global Minimum
 edit maximiseAmpAgainstT.mlx
 
-% Copyright © 2020 The MathWorks, Inc.
+% Copyright © 2021 The MathWorks, Inc.
