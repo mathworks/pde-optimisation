@@ -12,7 +12,7 @@ function f = objConstructor(myCurrent, tMax)
 %   Output/s:
 %       -) f: structure containing Fval and Ineq suitable for surrogatopt
 %
-%   Copyright © 2021 The MathWorks, Inc.
+%   Copyright © 2020 - 2023 The MathWorks, Inc.
 
 f.Fval = maxTFromCurrent(myCurrent);
 f.Ineq = tMax - f.Fval;

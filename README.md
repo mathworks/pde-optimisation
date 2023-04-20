@@ -18,17 +18,22 @@ We will look at the case of a current carrying conductor that is buried undergro
 ## Requirements
 We use the following tools within this demonstration:
 
-1. MATLAB (≥2020b), see note below
-1. Partial Differential Equation Toolboc
-1. Optimisation Toolbox
-1. Global Optimisation Toolbox
-1. Parallel Computing Toolbox
+1. MATLAB &reg; (≥2020b), see note below
+1. Partial Differential Equation Toolbox &trade;
+1. Optimisation Toolbox &trade;
+1. Global Optimisation Toolbox 
+1. Parallel Computing Toolbox &trade;
 
 The demonstration will work with versions of MATLAB earlier than 2020b but as we are using the Optimsation Live Task that is released in 2020b those sections will be limited to code only.
 
 ## Getting Started
 Open the project file, conductorOptimisation.prj, which will in turn configure the environment and launch a number of live scripts into the editor.  Start with the script: demonstrationOverview.mlx.
 
+## File Exchange
+Also available for direct download on MATLAB File Exchange
+
+[![View pde-optimisation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://au.mathworks.com/matlabcentral/fileexchange/81618-pde-optimisation)
+
 ## Copyright
 
-Copyright © 2020 The MathWorks, Inc.
+Copyright © 2020 - 2023 The MathWorks, Inc.

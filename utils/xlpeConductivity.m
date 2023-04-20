@@ -14,7 +14,7 @@ function myConductivity = xlpeConductivity(~, state)
 %   Output/s:
 %       -) myConductivity: vector of thermal conductivities
 %
-%   Copyright © 2021 The MathWorks, Inc.
+%   Copyright © 2020 - 2023 The MathWorks, Inc.
 
 %% Parameter Values
 persistent refT refTC

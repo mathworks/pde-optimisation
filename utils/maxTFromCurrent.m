@@ -9,7 +9,7 @@ function tMax = maxTFromCurrent(current)
 %   Output/s:
 %       -) tMax: inverse of the simulated maximum temperature
 %
-%   Copyright © 2021 The MathWorks, Inc.
+%   Copyright © 2020 - 2023 The MathWorks, Inc.
 
 
 %% Constants
